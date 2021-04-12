@@ -1,4 +1,4 @@
-# [epwvis](http://mdahlhausen.github.io/epwvis)
+# [epwvis](http://trikrt.github.io/epwvis)
 ------
 *An online viewer and analysis tool for EnergyPlus Weather (EPW) files.*
 
